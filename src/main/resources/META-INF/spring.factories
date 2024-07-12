@@ -1,1 +1,3 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.easyroc.config.EmailAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.easyroc.config.EmailAutoConfiguration,\
+com.easyroc.config.WebLogAutoConfiguration
